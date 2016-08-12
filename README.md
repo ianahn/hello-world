@@ -6,3 +6,5 @@ demo repository
 * .markdown
 
 add hello.java later
+
+good idea
