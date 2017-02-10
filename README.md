@@ -18,3 +18,5 @@ add 5 ian
 add 6 px
 
 add 7 ian
+
+add 7 pax
